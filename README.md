@@ -42,6 +42,10 @@ To double check that the computer has npm installed run
 
 If you already don't have npm on your computer you can download it by running the following command. Having nodeJS is a prequest to this.
 
+#### Initializing dependencies 
+
+    $ npm init
+    
 #### Installing express
 
 We will be using express framework for our API. to download express run the following in the terminal.
